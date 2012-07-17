@@ -1,0 +1,2 @@
+RewriteEngine on 
+RewriteRule tweets.json$ tweets.php
